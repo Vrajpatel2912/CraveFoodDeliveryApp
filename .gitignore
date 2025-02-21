@@ -1,0 +1,66 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.dtbcache
+*.dtbcache.v2
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet packages
+packages/
+*.nupkg
+*.pdb
+
+# User-specific files
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Build results
+[Dd]ebugPublic/
+[Rr]eleasePublic/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Configuration files with sensitive data
+appsettings.Development.json
+Web.Debug.config
+Web.Release.config
+
+# Logs
+*.log
+logs/
+
+# Temp files
+[Tt]emp/
+*.tmp
+
+# Visual Studio IntelliCode
+.vs/
